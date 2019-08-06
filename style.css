@@ -1,5 +1,6 @@
-.text-center{
+.text-center header{
   text-align: center;
+  border: 15px
 }
 .blue h1{
   color: blue;
